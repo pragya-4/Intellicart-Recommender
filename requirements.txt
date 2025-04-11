@@ -1,0 +1,3 @@
+streamlit
+pandas
+sqlite3  # some platforms ignore this, but include for safety
